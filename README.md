@@ -1,2 +1,2 @@
 # bookapp
-Node js book app api
+This project is done with Node js and it implements book app api
